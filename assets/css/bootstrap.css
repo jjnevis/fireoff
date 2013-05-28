@@ -6156,3 +6156,15 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+
+.logo-unit {
+  padding: 10px 20px;
+  margin-bottom: 30px;
+  font-size: 24px;
+  line-height: 30px;
+  color: #666666;
+  background-color: #FAE133;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
